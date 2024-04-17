@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1648069443 source:c:\pb\papetarie\main.cpp
+	<iostream>
+	<fstream>
+	<conio.h>
+	<cstring>
+	<windows.h>
+	<stdio.h>
+
